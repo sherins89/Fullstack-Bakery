@@ -33,6 +33,7 @@ nav {
 
 main {
   display: flex;
+  flex-grow: 1rem;
   flex: 1;
   gap: 10rem;
   padding: 1.5rem 2rem;
